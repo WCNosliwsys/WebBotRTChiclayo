@@ -129,7 +129,7 @@ function iniciarMapa() {
     //Arequipa
     //center:new google.maps.LatLng(-16.4090474,-71.53745099999998),
     //Tacna
-    center: new google.maps.LatLng(-18.02941384681983, -70.2692299336195),
+    center: new google.maps.LatLng(-6.771648, -79.839047),
     zoom: 13,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
   };
